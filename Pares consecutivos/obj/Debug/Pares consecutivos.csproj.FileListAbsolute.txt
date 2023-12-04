@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Pares consecutivos\Pares consecutivos\bin\Debug\Pares consecutivos.exe.config
+C:\temp\ws-vs2019\Pares consecutivos\Pares consecutivos\bin\Debug\Pares consecutivos.exe
+C:\temp\ws-vs2019\Pares consecutivos\Pares consecutivos\bin\Debug\Pares consecutivos.pdb
+C:\temp\ws-vs2019\Pares consecutivos\Pares consecutivos\obj\Debug\Pares consecutivos.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Pares consecutivos\Pares consecutivos\obj\Debug\Pares consecutivos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Pares consecutivos\Pares consecutivos\obj\Debug\Pares consecutivos.exe
+C:\temp\ws-vs2019\Pares consecutivos\Pares consecutivos\obj\Debug\Pares consecutivos.pdb
